@@ -1,3 +1,5 @@
+//Nhap vao 3 so a,b,c. Ktra xem do co phai 3 canh cua tam giac. Neu dung, tinh C va S
+
 #include<stdio.h>
 #include<math.h>
 int main(){
@@ -13,7 +15,7 @@ int main(){
     			int P=C/2;
     			int S=sqrt(P*(P-a)*(P-b)*(P-c));
     			printf("\nChu vi=%d",C);
-    			printf("\nDien tich=%d,S");
+    			printf("\nDien tich=%d",S);
 			}else{
 				printf("day ko phai 3 canh tam giac");
 			}

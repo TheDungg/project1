@@ -1,3 +1,5 @@
+//Tim so nghich dao cua 1 so nguyen duong khong qua 4 c/s
+
 #include <stdio.h>
 int main(){
     int a,b;

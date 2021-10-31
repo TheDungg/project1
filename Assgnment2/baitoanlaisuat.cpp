@@ -1,3 +1,5 @@
+//Tong tien thu duoc sau khi gui ngan hang 4000$ trong 4 nam voi lai suat 8%/nam
+
 #include<stdio.h>
 int main(){
 	float a;

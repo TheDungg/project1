@@ -1,3 +1,5 @@
+//Nhap vao 3 so a,b,c. Giai ptrinh bac 2: ax^2+bx+c = 0 ( tim x)
+
 #include<stdio.h>
 #include<math.h>
 int main(){
