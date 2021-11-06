@@ -1,4 +1,5 @@
 //Nhap 1 so nguyen duong, kiem tra n có phai so nguyen to hay khong
+
 #include<stdio.h>
 int main(){
 	int n;
