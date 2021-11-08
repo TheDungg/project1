@@ -1,4 +1,5 @@
 // Menu
+
 #include <stdio.h>
 int main(){
 	int menu,out = 0,grandTotal = 0;
